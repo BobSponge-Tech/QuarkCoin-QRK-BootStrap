@@ -4,6 +4,8 @@ Download is available [here](https://mega.nz/file/d7QyTQxI#ed4xgeifhN6_J2j9L2E0S
 
 Link also available at 'About' section.
 
+BootStrap contains three files: (chainstate, blocks, and quarkcoin.conf)
+
 Instructions:
 - Download BootStrap
 - Extract it
