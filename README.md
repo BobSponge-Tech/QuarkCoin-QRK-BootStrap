@@ -7,6 +7,6 @@ Link also available at 'About' section.
 Instructions:
 - Download BootStrap
 - Extract it
-- Ensure your quark program/qt is not running
+- Ensure your 'quark' program/qt is not running
 - Locate your 'quark' coin directory
 - Place BootStrap files inside your 'quark' coin directory
